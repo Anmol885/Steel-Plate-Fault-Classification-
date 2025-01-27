@@ -5,7 +5,7 @@ This project aims to design and implement a machine learning-based system to cla
 
 ## Objectives
 - Develop an accurate and reliable system to detect and classify faults in steel plates.
-- Leverage machine learning algorithms to analyze data from itmages or sensors.
+- Leverage machine learning algorithms to analyze data from images or sensors.
 - Optimize the solution for real-time or near-real-time fault detection.
 - Provide insights to enhance the manufacturing process.
 
